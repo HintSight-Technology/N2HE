@@ -6,7 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_FLAGS "-Ofast -funroll-loops -fomit-frame-pointer -march=native -mtune=native")
 
 include_directories(include)
-include_directories(/home/user9/local_libs/openssl/include/)
 include_directories(/usr/local/include)
 
 add_executable(test test.cpp)
