@@ -27,7 +27,7 @@ This library uses third-party codes:
 - The randomness is based on the [LAC algorithm](https://github.com/pqc-lac/lac-intel64).
 
 ## Document
-Please refer to [P2N3_Programmer_Guide.pdf] in this repo. 
+Please refer to [P2N3_Programmer_Guide.pdf](https://github.com/HintSight-Technology/P2N3/blob/main/P2N3_Programmer_Guide.pdf) in this repo. 
 
 ## Examples
 We offer some applications of our FHE scheme. It includes inference on MNIST dataset, facial recognition, speaker verification, text classification and object classification.   
