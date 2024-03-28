@@ -24,7 +24,6 @@ make
 ```
 This library uses third-party codes: 
 - [FasterNTT](https://github.com/nict-sfl/FasterNTT), a very fast and advanced library for polynomial multiplication based on Number-theoretic Transform (NTT). 
-- The randomness is based on the [LAC algorithm](https://github.com/pqc-lac/lac-intel64).
 
 ## Document
 Please refer to [P2N3_Programmer_Guide.pdf](https://github.com/HintSight-Technology/P2N3/blob/main/P2N3_Programmer_Guide.pdf) in this repo. 
