@@ -11,6 +11,8 @@ It is the implementation of publication [[1]](https://ieeexplore.ieee.org/docume
 [[1]](https://ieeexplore.ieee.org/document/10398424) K.Y. Lam, X. Lu, L. Zhang, X. Wang, H. Wang and S.Q. Goh. “Efficient FHE-based Privacy-Enhanced Neural Network for Trustworthy AI-as-a-Service”, IEEE Transactions on Dependable and Secure Computing, IEEE.   
 [[2]](https://ieeexplore.ieee.org/document/10376224) L. Zhang, X. Wang, J. Wang, R. Pung, H. Wang and K.Y. Lam. “An Efficient FHE-Enabled Secure Cloud-Edge Computing Architecture for IoMTs Data Protection With Its Application to Pandemic Modelling”, IEEE Internet of Things Journal, IEEE.
 
+[P2N3-hexl](https://github.com/HintSight-Technology/P2N3-hexl) is another version of our scheme, based on [hexl](https://github.com/intel/hexl). 
+
 ## Prerequisites
 - [OpenSSL](https://www.openssl.org/)
 
