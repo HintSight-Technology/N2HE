@@ -11,7 +11,7 @@ It is the implementation of publication [[1]](https://ieeexplore.ieee.org/docume
 [[1]](https://ieeexplore.ieee.org/document/10398424) K.Y. Lam, X. Lu, L. Zhang, X. Wang, H. Wang and S.Q. Goh. “Efficient FHE-based Privacy-Enhanced Neural Network for Trustworthy AI-as-a-Service”, IEEE Transactions on Dependable and Secure Computing, IEEE.   
 [[2]](https://ieeexplore.ieee.org/document/10376224) L. Zhang, X. Wang, J. Wang, R. Pung, H. Wang and K.Y. Lam. “An Efficient FHE-Enabled Secure Cloud-Edge Computing Architecture for IoMTs Data Protection With Its Application to Pandemic Modelling”, IEEE Internet of Things Journal, IEEE.
 
-[N2HE-hexl](https://github.com/HintSight-Technology/P2N3-hexl) is another version of our scheme, based on [hexl](https://github.com/intel/hexl). 
+[N2HE-hexl](https://github.com/HintSight-Technology/P2N3-hexl) is another version of our scheme, using Intel Homomorphic Encryption (HE) Acceleration Library [hexl](https://github.com/intel/hexl). 
 
 ## Prerequisites
 - [OpenSSL](https://www.openssl.org/)
@@ -28,7 +28,7 @@ This library uses third-party codes:
 - [FasterNTT](https://github.com/nict-sfl/FasterNTT), a very fast and advanced library for polynomial multiplication based on Number-theoretic Transform (NTT). 
 
 ## Document
-Please refer to [P2N3_Programmer_Guide.pdf](https://github.com/HintSight-Technology/P2N3/blob/main/P2N3_Programmer_Guide.pdf) in this repo. 
+Please refer to [N2HE_Programmer_Guide.pdf](https://github.com/HintSight-Technology/N2HE/blob/main/N2HE_Programmer_Guide.pdf) in this repo. 
 
 ## Examples
 We offer some applications of our FHE scheme. It includes inference on MNIST dataset, facial recognition, speaker verification, text classification and object classification.   
