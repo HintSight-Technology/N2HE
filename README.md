@@ -14,7 +14,7 @@ It is the implementation of publication [[1]](https://ieeexplore.ieee.org/docume
 [N2HE-hexl](https://github.com/HintSight-Technology/P2N3-hexl) is another version of our scheme, using Intel Homomorphic Encryption (HE) Acceleration Library [hexl](https://github.com/intel/hexl). 
 
 ## Prerequisites
-- [OpenSSL](https://www.openssl.org/)
+- [OpenSSL](https://www.openssl.org/)  3.2.1 or later
 
 ## Installation
 Supported platforms: Linux and MacOS.  
